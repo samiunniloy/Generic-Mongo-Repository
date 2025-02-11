@@ -1,0 +1,38 @@
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\appsettings.json
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Generic MOngo.exe
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Generic MOngo.deps.json
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Generic MOngo.runtimeconfig.json
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Generic MOngo.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Generic MOngo.pdb
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\DnsClient.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Snappier.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samiun\source\repos\Generic MOngo\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.csproj.AssemblyReference.cache
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.AssemblyInfoInputs.cache
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.AssemblyInfo.cs
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.csproj.CoreCompileInputs.cache
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets\msbuild.Generic MOngo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets\msbuild.build.Generic MOngo.props
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Generic MOngo.props
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Generic MOngo.props
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\scopedcss\bundle\Generic MOngo.styles.css
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic .AA0BA997.Up2Date
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.dll
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\refint\Generic MOngo.dll
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.pdb
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\Generic MOngo.genruntimeconfig.cache
+C:\Users\samiun\source\repos\Generic MOngo\obj\Debug\net8.0\ref\Generic MOngo.dll
